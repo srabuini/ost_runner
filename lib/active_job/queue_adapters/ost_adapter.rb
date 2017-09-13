@@ -1,4 +1,5 @@
 require 'active_support'
+require 'ost'
 
 module ActiveJob
   module QueueAdapters
